@@ -1,0 +1,14 @@
+D:\C#Tutorial\ExpensesApp\ExpensesApp\obj\Debug\ExpensesApp.csproj.AssemblyReference.cache
+D:\C#Tutorial\ExpensesApp\ExpensesApp\obj\Debug\ExpensesApp.csproj.SuggestedBindingRedirects.cache
+D:\C#Tutorial\ExpensesApp\ExpensesApp\obj\Debug\ExpensesApp.AddExpenseForm.resources
+D:\C#Tutorial\ExpensesApp\ExpensesApp\obj\Debug\ExpensesApp.DetailsForm.resources
+D:\C#Tutorial\ExpensesApp\ExpensesApp\obj\Debug\ExpensesApp.Form1.resources
+D:\C#Tutorial\ExpensesApp\ExpensesApp\obj\Debug\ExpensesApp.Properties.Resources.resources
+D:\C#Tutorial\ExpensesApp\ExpensesApp\obj\Debug\ExpensesApp.csproj.GenerateResource.cache
+D:\C#Tutorial\ExpensesApp\ExpensesApp\obj\Debug\ExpensesApp.csproj.CoreCompileInputs.cache
+D:\C#Tutorial\ExpensesApp\ExpensesApp\bin\Debug\ExpensesApp.exe.config
+D:\C#Tutorial\ExpensesApp\ExpensesApp\bin\Debug\ExpensesApp.exe
+D:\C#Tutorial\ExpensesApp\ExpensesApp\bin\Debug\ExpensesApp.pdb
+D:\C#Tutorial\ExpensesApp\ExpensesApp\obj\Debug\ExpensesApp.exe
+D:\C#Tutorial\ExpensesApp\ExpensesApp\obj\Debug\ExpensesApp.pdb
+D:\C#Tutorial\ExpensesApp\ExpensesApp\obj\Debug\ExpensesApp.loginForm.resources
